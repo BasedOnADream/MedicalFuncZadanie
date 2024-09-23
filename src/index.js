@@ -81,7 +81,7 @@ const Main = () =>
                     <div className="flex flex-row gap-20">
                         <div className="w-1/3">
                             <span className="absolute bg-red-500 text-white p-1 rounded-md px-4 m-5">Sale</span>
-                            <img className="w-full h-80 object-cover" src="https://th.bing.com/th/id/R.71f6bb5bfd3db55d90fc7be994994f49?rik=HZg2MWKh3OAFKQ&pid=ImgRaw&r=0"/>
+                            <img className="w-full h-80 object-cover" src="https://sire-media-foxpl.fichub.com/generic/serie-main/827.640x640.jpg"/>
                             <div className="absolute w-img">
                                 <button className="bg-white p-2 rounded-full relative w-10  left-img bottom-16 mr-2"><img src="https://img.icons8.com/?size=100&id=87&format=png&color=000000"/></button>
                                 <button className="bg-white p-2 rounded-full relative w-10  left-img bottom-16 mr-2"><img src="https://img.icons8.com/?size=100&id=lUAhXJeo12PL&format=png&color=000000"/></button>
@@ -197,7 +197,7 @@ const Main = () =>
                             <div><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=104&format=png&color=FFDE59"/></div>
                             <p className="text-center text-gray-500">State helps you see how many more days you need to work to reach your financial goal for the month and year.</p>
                             <div className="float-start w-full">
-                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://th.bing.com/th/id/OIP.ek92LjKIj49209DpGuIA4QAAAA?w=417&h=626&rs=1&pid=ImgDetMain"/>
+                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://i1.sndcdn.com/artworks-FRIqYPtESjPf6jwJ-mEXsUg-t500x500.jpg"/>
                                 <h4 className="w-1/2 mt-6 float-left box-border text-blue-500 font-bold">Regina Miles</h4>
                                 <p className="w-1/2 float-left box-border">Designer</p>
                             </div>
@@ -206,7 +206,7 @@ const Main = () =>
                             <div><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=104&format=png&color=FFDE59"/></div>
                             <p className="text-center text-gray-500">State helps you see how many more days you need to work to reach your financial goal for the month and year.</p>
                             <div className="float-start w-full">
-                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://th.bing.com/th/id/R.96abc935ed46ae29703912a213d1b3eb?rik=h6%2bXhNNmcgEmfQ&pid=ImgRaw&r=0"/>
+                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_Lj7_qGVPezbyNHzC9sqYLKMLb1P2pD5MQ&s"/>
                                 <h4 className="w-1/2 mt-6 float-left box-border text-blue-500 font-bold">Regina Miles</h4>
                                 <p className="w-1/2 float-left box-border">Designer</p>
                             </div>
@@ -215,7 +215,7 @@ const Main = () =>
                             <div><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=7856&format=png&color=FFDE59"/><img className="inline-block mr-1" src="https://img.icons8.com/?size=30&id=104&format=png&color=FFDE59"/></div>
                             <p className="text-center text-gray-500">State helps you see how many more days you need to work to reach your financial goal for the month and year.</p>
                             <div className="float-start w-full">
-                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://th.bing.com/th/id/R.4f3021e960a6ba56d0a086cbc3a3c5d0?rik=AgokwWfQXLWgXw&pid=ImgRaw&r=0"/>
+                                <img className="w-24 h-24 object-cover rounded-full inline-block float-start mr-5" src="https://hips.hearstapps.com/hmg-prod/images/dr_dre_photo_by_christopher_pol_getty_images_entertainment_getty_120919208.jpg"/>
                                 <h4 className="w-1/2 mt-6 float-left box-border text-blue-500 font-bold">Regina Miles</h4>
                                 <p className="w-1/2 float-left box-border">Designer</p>
                             </div>
